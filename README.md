@@ -32,7 +32,7 @@ This Google Search Engine is made with full stack MERN.
 ### Installation
 Use this command line to clone this repo before running the program:
 
->`git@github.com:c1008h/Book-Search-Engine.git`
+>`git@github.com:c1008h/book-search-engine.git`
 
 Open the repo in VSC then open the terminal to that file. Once in the terminal, run `npm init --y`. Once initualize is finished, run `npm install && npm start && npm develop`. This should install all packages and dependencies that are needed for this app and open the app on the browser.
 
